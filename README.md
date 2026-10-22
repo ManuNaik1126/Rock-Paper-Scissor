@@ -57,7 +57,7 @@ rock-paper-scissors/
 
 ## 🎮 Live Demo
 
-Play the game online: [Tic-Tac-Toe](https://manunaik1126.github.io/Rock-Paper-Scissor/)
+Play the game online: [Rock-Paper-Scissor](https://manunaik1126.github.io/Rock-Paper-Scissor/)
 
 ## 👨‍💻 Author
 
