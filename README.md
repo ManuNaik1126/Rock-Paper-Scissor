@@ -19,8 +19,8 @@ This project is a browser-based implementation of the classic Rock Paper Scissor
 
 ## 🛠️ Technologies Used
 
-- HTML5 — Structure of the game
-- CSS3 — Styling and layout
+- HTML — Structure of the game
+- CSS — Styling and layout
 - JavaScript — Game logic and interactivity
 
 ## 🚀 How to Run the Project
