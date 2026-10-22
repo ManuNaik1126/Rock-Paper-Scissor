@@ -54,6 +54,11 @@ rock-paper-scissors/
 - Used random number generation for computer choices
 - Implemented game-result logic and DOM manipulation
 
+
+## 🎮 Live Demo
+
+Play the game online: [Tic-Tac-Toe](https://manunaik1126.github.io/Rock-Paper-Scissor/)
+
 ## 👨‍💻 Author
 
 **Manoj Irayya Naik**
